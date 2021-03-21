@@ -1,0 +1,27 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(154): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(155): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(156): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(161): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(162): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(163): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(169): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(170): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(171): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(173): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(173): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(174): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(174): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(175): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(175): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(231): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(288): warning C4305: '正在初始化': 從 'int' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(307): warning C4305: '正在初始化': 從 'int' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(325): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(346): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(348): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(398): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\multiplemedia_imageprocessing\multiplemedia_imageprocessing\source.cpp(416): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'long'，由於類型不同，可能導致資料遺失
+  MultipleMedia_ImageProcessing.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\MultipleMedia_ImageProcessing\x64\Debug\MultipleMedia_ImageProcessing.exe
+  MultipleMedia_ImageProcessing.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\MultipleMedia_ImageProcessing\x64\Debug\MultipleMedia_ImageProcessing.pdb (Full PDB)
